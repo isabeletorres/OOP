@@ -4,9 +4,25 @@ namespace ClassesEMetodos02
 {
     public class Product
     {
-        public String Nome;
-        public double Preco;
-        public int Quantidade;
+        public String Nome { get; private set; }
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
+
+        public Product() { }
+
+        public Product(String nome, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+        }
+
+        public Product(String nome, double preco, int quantidade)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
+        }
+
 
         public double ValorTotalEmEstoque()
         {
