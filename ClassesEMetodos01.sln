@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeracoes", "Enumeracoes\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composicao", "Composição\Composicao.csproj", "{ADF4DD60-8876-4569-A9CE-8F7A9F7D3BC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExStringBuilder", "ExStringBuilder\ExStringBuilder.csproj", "{5662E899-8E11-4948-A17B-522ADDCBE6D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{ADF4DD60-8876-4569-A9CE-8F7A9F7D3BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADF4DD60-8876-4569-A9CE-8F7A9F7D3BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADF4DD60-8876-4569-A9CE-8F7A9F7D3BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5662E899-8E11-4948-A17B-522ADDCBE6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5662E899-8E11-4948-A17B-522ADDCBE6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5662E899-8E11-4948-A17B-522ADDCBE6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5662E899-8E11-4948-A17B-522ADDCBE6D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
