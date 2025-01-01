@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composicao", "Composição\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExStringBuilder", "ExStringBuilder\ExStringBuilder.csproj", "{5662E899-8E11-4948-A17B-522ADDCBE6D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{DAF92576-BFFA-4D4F-8CD0-F106ED622B4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{5662E899-8E11-4948-A17B-522ADDCBE6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5662E899-8E11-4948-A17B-522ADDCBE6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5662E899-8E11-4948-A17B-522ADDCBE6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF92576-BFFA-4D4F-8CD0-F106ED622B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF92576-BFFA-4D4F-8CD0-F106ED622B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF92576-BFFA-4D4F-8CD0-F106ED622B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF92576-BFFA-4D4F-8CD0-F106ED622B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
