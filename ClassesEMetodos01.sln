@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExStringBuilder", "ExString
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{DAF92576-BFFA-4D4F-8CD0-F106ED622B4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciesEmployee", "ExerciciesEmployee\ExerciciesEmployee.csproj", "{F6E0B4E1-FA94-4AB8-82E4-663C13284804}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{DAF92576-BFFA-4D4F-8CD0-F106ED622B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAF92576-BFFA-4D4F-8CD0-F106ED622B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAF92576-BFFA-4D4F-8CD0-F106ED622B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E0B4E1-FA94-4AB8-82E4-663C13284804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E0B4E1-FA94-4AB8-82E4-663C13284804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E0B4E1-FA94-4AB8-82E4-663C13284804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E0B4E1-FA94-4AB8-82E4-663C13284804}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

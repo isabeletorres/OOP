@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Heranca.Entities
 {
-    internal class SavingsAccount : Account
+
+    sealed class SavingsAccount : Account
     {
         public double InterestRate { get; set; }
 
