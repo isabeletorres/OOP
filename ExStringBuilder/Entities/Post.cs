@@ -23,12 +23,12 @@ namespace ExStringBuilder.Entities
             Likes = likes;
         }
 
-        public void addComment(Comment comment)
+        public void AddComment(Comment comment)
         {
             Comments.Add(comment);
         }    
         
-        public void removeComment(Comment comment)
+        public void RemoveComment(Comment comment)
         {
             Comments.Remove(comment);
         }

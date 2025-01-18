@@ -14,8 +14,8 @@ namespace ExStringBuilder
                 "Travelling to New Zeland",
                 "I 'm going to visit wonderful country!",
                 12);
-            p1.addComment(c1);
-            p1.addComment(c2);
+            p1.AddComment(c1);
+            p1.AddComment(c2);
 
             Comment c3 = new Comment("Good Night");
             Comment c4 = new Comment("May the Force be with you");
@@ -25,8 +25,8 @@ namespace ExStringBuilder
                 "Good nigth guys",
                 "see you tomorrow",
                 12);
-            p2.addComment(c3);
-            p2.addComment(c4);
+            p2.AddComment(c3);
+            p2.AddComment(c4);
 
             Console.WriteLine(p1);
             Console.WriteLine(p2);
