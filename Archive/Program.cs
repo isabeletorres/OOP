@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Archive
+namespace Archive00
 {
     class Program
     {
