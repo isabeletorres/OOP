@@ -43,7 +43,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archive04", "Archive04\Arch
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arquivos", "Arquivos", "{3857D753-B378-4B92-82B3-BFDFF77D6285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExSemInterface", "ExSemInterface\ExSemInterface.csproj", "{681A97AF-6565-4D7C-91DF-98E65863957D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExComInterface", "ExSemInterface\ExComInterface.csproj", "{681A97AF-6565-4D7C-91DF-98E65863957D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
