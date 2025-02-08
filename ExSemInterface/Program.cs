@@ -3,9 +3,9 @@ using System.Globalization;
 using ExSemInterface.Entities;
 using ExSemInterface.Services;
 
-namespace ExSemInterface
+namespace ExComInterface
 {
-    class Program 
+    class Program
     {
         static void Main(string[] args)
         {
@@ -28,7 +28,7 @@ namespace ExSemInterface
 
             rentalService.ProcessInvoice(carRental);
 
-            Console.WriteLine("Invoce");
+            Console.WriteLine("INVOICE: ");
             Console.WriteLine(carRental.Invoice);
         }
     }
